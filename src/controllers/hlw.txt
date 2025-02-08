@@ -1,0 +1,9 @@
+//get user  details from fornte end
+//validaton
+//check if user already exists : email or username
+//check for images , check for avatar
+// upload images on cloudinary,avatar
+//create user object - create user in db
+// remove password and refresh token from response
+//check for user creation
+//send response

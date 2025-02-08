@@ -23,8 +23,7 @@ try{
         resource_type: "auto",
     })
 
-    console.log(response.url);
-
+   fs.unlinkSync(filepath);
     return response
     
 }
